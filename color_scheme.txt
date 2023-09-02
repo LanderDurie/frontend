@@ -1,0 +1,10 @@
+color  palette
+
+
+grey1: 444444
+grey2: 2E2E2E
+grey3: 212121
+grey4: 1A1A1A
+
+light: E6E6E6
+orange: F96743
